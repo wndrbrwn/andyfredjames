@@ -62,13 +62,13 @@ const Home: FC = () => {
         fontWeight="semibold"
         fontSize={[24, 24, 48]}
       >
-        <Text>Exodia the Forbidden One</Text>
+        <Text>AndyFredJames the Forbidden One</Text>
         <Button
           variant="outline"
           colorScheme="blue"
           onClick={() => navigate("/mint")}
         >
-          summon Exodia
+          summon Andy
         </Button>
       </Flex>
       <Flex
